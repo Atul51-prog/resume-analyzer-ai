@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.env
+resume_ai.db
+uploads/*.pdf
+!uploads/.gitkeep
+.pytest_cache/

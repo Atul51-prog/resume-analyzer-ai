@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.venv/
+env/
+
+# Build outputs
+.next/
+dist/
+out/
+build/
+__pycache__/
+*.pyc
+
+# Local Environment & Databases
+.env
+.env*.local
+*.db
+*.sqlite3
+
+# Uploads
+uploads/*.pdf
+!uploads/.gitkeep
+
+# System & IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
