@@ -28,14 +28,13 @@
 
 ## 🎬 Demo Video
 
-<!-- Replace the link below with your YouTube video URL after uploading -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/4gdjzbwIht0" target="_blank">
     <img src="https://img.shields.io/badge/▶ Watch Demo on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"/>
   </a>
 </p>
 
-> 📹 _Demo video coming soon — subscribe to be notified!_
+> 📹 _Click above to watch the full demo video on YouTube!_
 
 ---
 
